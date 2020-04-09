@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580161176 source:h:\programowanie\szyfr cezara (du¿e i ma³e litery)\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
+1580161176 source:e:\programowanie\szyfr cezara (du¿e i ma³e litery)\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
